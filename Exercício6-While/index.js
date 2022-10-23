@@ -14,6 +14,7 @@ while (visit === "SIM"){
 }
 
 alert(
+    "Nome do turista: " + name + "\n" +
     "Cidade visitas: \n" + cities + "\n" +
     "Quantidade de cidades visitadas: " + howMany
 )
