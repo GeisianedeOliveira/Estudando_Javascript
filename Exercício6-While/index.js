@@ -16,4 +16,4 @@ while (visit === "SIM"){
 alert(
     "Cidade visitas: \n" + cities + "\n" +
     "Quantidade de cidades visitadas: " + howMany
-    )
+)
